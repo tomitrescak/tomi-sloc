@@ -1,0 +1,1 @@
+Sloc = Npm.require('sloc');
